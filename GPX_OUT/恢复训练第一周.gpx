@@ -1,0 +1,959 @@
+<gpx version="1.1" creator="Apple Watch" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><metadata><name>恢复训练第一周</name></metadata>
+<trk><name>恢复训练第一周</name><type>running</type>
+<trkseg>
+<trkpt lat="31.1794253" lon="121.2417705">
+<ele>4</ele><time>2024-07-07T14:16:29.036Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>107</gpxtpx:hr><gpxtpx:cad>58</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>0</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794356" lon="121.2418497">
+<ele>4</ele><time>2024-07-07T14:16:39.000Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>107</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>0</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794388" lon="121.2419104">
+<ele>4</ele><time>2024-07-07T14:16:41.000Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>107</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>0</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794496" lon="121.2419770">
+<ele>4</ele><time>2024-07-07T14:16:43.000Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>107</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794788" lon="121.2420493">
+<ele>4</ele><time>2024-07-07T14:16:45.000Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>112</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795243" lon="121.2421076">
+<ele>4</ele><time>2024-07-07T14:16:47.000Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>112</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795554" lon="121.2421574">
+<ele>4</ele><time>2024-07-07T14:16:49.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>117</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795910" lon="121.2422100">
+<ele>4</ele><time>2024-07-07T14:16:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>117</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796108" lon="121.2422688">
+<ele>4</ele><time>2024-07-07T14:16:53.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>117</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>215</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796208" lon="121.2423385">
+<ele>4</ele><time>2024-07-07T14:16:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>122</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796208" lon="121.2424074">
+<ele>4</ele><time>2024-07-07T14:16:57.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>122</gpxtpx:hr><gpxtpx:cad>95</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796313" lon="121.2424988">
+<ele>4</ele><time>2024-07-07T14:16:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>128</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796442" lon="121.2425799">
+<ele>4</ele><time>2024-07-07T14:17:01.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>128</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>206</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796788" lon="121.2426540">
+<ele>4</ele><time>2024-07-07T14:17:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>128</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>206</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797148" lon="121.2427270">
+<ele>4</ele><time>2024-07-07T14:17:04.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>136</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>205</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797374" lon="121.2427774">
+<ele>4</ele><time>2024-07-07T14:17:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>136</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797662" lon="121.2428425">
+<ele>4</ele><time>2024-07-07T14:17:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>136</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>232</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797811" lon="121.2429256">
+<ele>4</ele><time>2024-07-07T14:17:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>135</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>242</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797980" lon="121.2430050">
+<ele>4</ele><time>2024-07-07T14:17:12.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>135</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>242</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798075" lon="121.2430796">
+<ele>4</ele><time>2024-07-07T14:17:14.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>141</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>228</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798239" lon="121.2431511">
+<ele>4</ele><time>2024-07-07T14:17:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>141</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>228</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798597" lon="121.2432282">
+<ele>4</ele><time>2024-07-07T14:17:18.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>141</gpxtpx:hr><gpxtpx:cad>95</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798774" lon="121.2432987">
+<ele>4</ele><time>2024-07-07T14:17:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>141</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798960" lon="121.2433682">
+<ele>4</ele><time>2024-07-07T14:17:22.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>141</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799052" lon="121.2434441">
+<ele>4</ele><time>2024-07-07T14:17:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>143</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798864" lon="121.2435200">
+<ele>4</ele><time>2024-07-07T14:17:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>143</gpxtpx:hr><gpxtpx:cad>98</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798903" lon="121.2435939">
+<ele>4</ele><time>2024-07-07T14:17:28.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>143</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>235</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799069" lon="121.2436690">
+<ele>4</ele><time>2024-07-07T14:17:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>147</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>235</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799373" lon="121.2437235">
+<ele>4</ele><time>2024-07-07T14:17:31.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>147</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>236</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799742" lon="121.2437776">
+<ele>4</ele><time>2024-07-07T14:17:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>147</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>234</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800144" lon="121.2438373">
+<ele>4</ele><time>2024-07-07T14:17:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>89</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>234</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800393" lon="121.2438834">
+<ele>4</ele><time>2024-07-07T14:17:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>234</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800629" lon="121.2439473">
+<ele>4</ele><time>2024-07-07T14:17:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>146</gpxtpx:hr><gpxtpx:cad>89</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>239</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800765" lon="121.2440050">
+<ele>4</ele><time>2024-07-07T14:17:41.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>146</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800793" lon="121.2440666">
+<ele>4</ele><time>2024-07-07T14:17:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>146</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800677" lon="121.2441232">
+<ele>4</ele><time>2024-07-07T14:17:45.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>148</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>237</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800523" lon="121.2441862">
+<ele>4</ele><time>2024-07-07T14:17:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>148</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800684" lon="121.2442444">
+<ele>4</ele><time>2024-07-07T14:17:49.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800753" lon="121.2443173">
+<ele>4</ele><time>2024-07-07T14:17:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>216</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800874" lon="121.2443957">
+<ele>4</ele><time>2024-07-07T14:17:53.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>216</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801073" lon="121.2444595">
+<ele>4</ele><time>2024-07-07T14:17:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>216</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801018" lon="121.2445355">
+<ele>4</ele><time>2024-07-07T14:17:57.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801209" lon="121.2446024">
+<ele>4</ele><time>2024-07-07T14:17:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>153</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801191" lon="121.2446629">
+<ele>4</ele><time>2024-07-07T14:18:01.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>153</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801170" lon="121.2447294">
+<ele>4</ele><time>2024-07-07T14:18:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>153</gpxtpx:hr><gpxtpx:cad>89</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801417" lon="121.2447899">
+<ele>4</ele><time>2024-07-07T14:18:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801639" lon="121.2448430">
+<ele>4</ele><time>2024-07-07T14:18:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>220</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801686" lon="121.2449309">
+<ele>4</ele><time>2024-07-07T14:18:12.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>220</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801608" lon="121.2450043">
+<ele>4</ele><time>2024-07-07T14:18:14.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>206</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801790" lon="121.2450740">
+<ele>4</ele><time>2024-07-07T14:18:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>206</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802125" lon="121.2451338">
+<ele>4</ele><time>2024-07-07T14:18:18.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>206</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802311" lon="121.2451959">
+<ele>4</ele><time>2024-07-07T14:18:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>99</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>239</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802370" lon="121.2452607">
+<ele>4</ele><time>2024-07-07T14:18:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>96</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>239</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802016" lon="121.2452149">
+<ele>4</ele><time>2024-07-07T14:18:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>94</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>239</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802057" lon="121.2451140">
+<ele>4</ele><time>2024-07-07T14:18:28.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801991" lon="121.2450585">
+<ele>4</ele><time>2024-07-07T14:18:29.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802689" lon="121.2450386">
+<ele>4</ele><time>2024-07-07T14:18:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801754" lon="121.2449460">
+<ele>4</ele><time>2024-07-07T14:18:32.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>155</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801127" lon="121.2449152">
+<ele>4</ele><time>2024-07-07T14:18:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>205</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800885" lon="121.2448605">
+<ele>4</ele><time>2024-07-07T14:18:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800642" lon="121.2447833">
+<ele>4</ele><time>2024-07-07T14:18:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800398" lon="121.2447333">
+<ele>4</ele><time>2024-07-07T14:18:41.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800078" lon="121.2446685">
+<ele>4</ele><time>2024-07-07T14:18:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800181" lon="121.2446113">
+<ele>4</ele><time>2024-07-07T14:18:45.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>209</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800235" lon="121.2445549">
+<ele>4</ele><time>2024-07-07T14:18:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>207</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800446" lon="121.2444993">
+<ele>4</ele><time>2024-07-07T14:18:49.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>207</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800146" lon="121.2444340">
+<ele>4</ele><time>2024-07-07T14:18:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>207</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799953" lon="121.2443832">
+<ele>4</ele><time>2024-07-07T14:18:53.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>184</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799792" lon="121.2443039">
+<ele>4</ele><time>2024-07-07T14:18:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>184</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799724" lon="121.2442214">
+<ele>4</ele><time>2024-07-07T14:18:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>183</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799724" lon="121.2441667">
+<ele>4</ele><time>2024-07-07T14:19:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>183</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799183" lon="121.2441134">
+<ele>4</ele><time>2024-07-07T14:19:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>195</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798925" lon="121.2440325">
+<ele>4</ele><time>2024-07-07T14:19:05.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>193</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799075" lon="121.2439470">
+<ele>4</ele><time>2024-07-07T14:19:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>193</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799201" lon="121.2438722">
+<ele>4</ele><time>2024-07-07T14:19:09.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>193</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799274" lon="121.2438018">
+<ele>4</ele><time>2024-07-07T14:19:11.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799316" lon="121.2437483">
+<ele>4</ele><time>2024-07-07T14:19:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>80</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799080" lon="121.2436961">
+<ele>4</ele><time>2024-07-07T14:19:15.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799140" lon="121.2436276">
+<ele>4</ele><time>2024-07-07T14:19:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799026" lon="121.2435536">
+<ele>4</ele><time>2024-07-07T14:19:19.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>206</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799007" lon="121.2435002">
+<ele>4</ele><time>2024-07-07T14:19:21.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798919" lon="121.2434401">
+<ele>4</ele><time>2024-07-07T14:19:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>80</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798719" lon="121.2433772">
+<ele>4</ele><time>2024-07-07T14:19:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798493" lon="121.2433163">
+<ele>4</ele><time>2024-07-07T14:19:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798496" lon="121.2432566">
+<ele>4</ele><time>2024-07-07T14:19:34.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>198</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798330" lon="121.2432068">
+<ele>4</ele><time>2024-07-07T14:19:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>180</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798219" lon="121.2431341">
+<ele>4</ele><time>2024-07-07T14:19:41.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>164</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797951" lon="121.2430802">
+<ele>4</ele><time>2024-07-07T14:19:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>164</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797647" lon="121.2430124">
+<ele>4</ele><time>2024-07-07T14:19:45.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>164</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797625" lon="121.2429363">
+<ele>4</ele><time>2024-07-07T14:19:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>160</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797579" lon="121.2428831">
+<ele>4</ele><time>2024-07-07T14:19:49.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>160</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797338" lon="121.2428366">
+<ele>4</ele><time>2024-07-07T14:19:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>183</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797360" lon="121.2427681">
+<ele>4</ele><time>2024-07-07T14:19:53.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797124" lon="121.2427046">
+<ele>4</ele><time>2024-07-07T14:19:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796819" lon="121.2426521">
+<ele>4</ele><time>2024-07-07T14:19:57.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>209</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796499" lon="121.2425929">
+<ele>4</ele><time>2024-07-07T14:19:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>209</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796288" lon="121.2425410">
+<ele>4</ele><time>2024-07-07T14:20:01.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796070" lon="121.2424838">
+<ele>4</ele><time>2024-07-07T14:20:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795815" lon="121.2424305">
+<ele>4</ele><time>2024-07-07T14:20:05.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795620" lon="121.2423761">
+<ele>4</ele><time>2024-07-07T14:20:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795247" lon="121.2423147">
+<ele>4</ele><time>2024-07-07T14:20:09.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795090" lon="121.2422554">
+<ele>4</ele><time>2024-07-07T14:20:11.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795029" lon="121.2421846">
+<ele>4</ele><time>2024-07-07T14:20:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794882" lon="121.2421146">
+<ele>4</ele><time>2024-07-07T14:20:15.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>205</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794858" lon="121.2420523">
+<ele>4</ele><time>2024-07-07T14:20:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>80</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794808" lon="121.2419874">
+<ele>4</ele><time>2024-07-07T14:20:19.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794604" lon="121.2419330">
+<ele>4</ele><time>2024-07-07T14:20:21.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794344" lon="121.2418777">
+<ele>4</ele><time>2024-07-07T14:20:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>80</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1793645" lon="121.2418727">
+<ele>4</ele><time>2024-07-07T14:20:25.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1793487" lon="121.2419482">
+<ele>4</ele><time>2024-07-07T14:20:31.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1793771" lon="121.2419914">
+<ele>4</ele><time>2024-07-07T14:20:32.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1793915" lon="121.2420522">
+<ele>4</ele><time>2024-07-07T14:20:34.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794120" lon="121.2421023">
+<ele>4</ele><time>2024-07-07T14:20:36.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794351" lon="121.2421564">
+<ele>4</ele><time>2024-07-07T14:20:38.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794746" lon="121.2422271">
+<ele>4</ele><time>2024-07-07T14:20:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>204</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795174" lon="121.2422973">
+<ele>4</ele><time>2024-07-07T14:20:42.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795581" lon="121.2423532">
+<ele>4</ele><time>2024-07-07T14:20:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>89</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795750" lon="121.2424316">
+<ele>4</ele><time>2024-07-07T14:20:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795957" lon="121.2424918">
+<ele>4</ele><time>2024-07-07T14:20:48.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796158" lon="121.2425659">
+<ele>4</ele><time>2024-07-07T14:20:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>225</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796345" lon="121.2426372">
+<ele>4</ele><time>2024-07-07T14:20:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>225</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796628" lon="121.2427143">
+<ele>4</ele><time>2024-07-07T14:20:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796853" lon="121.2427724">
+<ele>4</ele><time>2024-07-07T14:20:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797227" lon="121.2428437">
+<ele>4</ele><time>2024-07-07T14:20:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797493" lon="121.2428932">
+<ele>4</ele><time>2024-07-07T14:21:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797725" lon="121.2429629">
+<ele>4</ele><time>2024-07-07T14:21:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>228</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797704" lon="121.2430254">
+<ele>4</ele><time>2024-07-07T14:21:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797689" lon="121.2430854">
+<ele>4</ele><time>2024-07-07T14:21:09.002Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>225</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797800" lon="121.2431396">
+<ele>4</ele><time>2024-07-07T14:21:12.002Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797884" lon="121.2431918">
+<ele>4</ele><time>2024-07-07T14:21:15.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>118</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798030" lon="121.2432433">
+<ele>4</ele><time>2024-07-07T14:21:19.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>110</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798312" lon="121.2433061">
+<ele>4</ele><time>2024-07-07T14:21:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>87</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798588" lon="121.2433612">
+<ele>4</ele><time>2024-07-07T14:21:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>87</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798713" lon="121.2434338">
+<ele>4</ele><time>2024-07-07T14:21:29.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>99</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798772" lon="121.2435041">
+<ele>4</ele><time>2024-07-07T14:21:31.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>120</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798810" lon="121.2435740">
+<ele>4</ele><time>2024-07-07T14:21:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>120</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798872" lon="121.2436423">
+<ele>4</ele><time>2024-07-07T14:21:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798999" lon="121.2437049">
+<ele>4</ele><time>2024-07-07T14:21:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799161" lon="121.2437743">
+<ele>4</ele><time>2024-07-07T14:21:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799126" lon="121.2438329">
+<ele>4</ele><time>2024-07-07T14:21:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799132" lon="121.2439068">
+<ele>4</ele><time>2024-07-07T14:21:42.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>95</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799380" lon="121.2439691">
+<ele>4</ele><time>2024-07-07T14:21:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799733" lon="121.2440153">
+<ele>4</ele><time>2024-07-07T14:21:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800115" lon="121.2440817">
+<ele>4</ele><time>2024-07-07T14:21:48.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800297" lon="121.2441413">
+<ele>4</ele><time>2024-07-07T14:21:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>89</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800292" lon="121.2442076">
+<ele>4</ele><time>2024-07-07T14:21:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800197" lon="121.2442871">
+<ele>4</ele><time>2024-07-07T14:21:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800314" lon="121.2443681">
+<ele>4</ele><time>2024-07-07T14:21:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>231</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800553" lon="121.2444516">
+<ele>4</ele><time>2024-07-07T14:21:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>227</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800549" lon="121.2445252">
+<ele>4</ele><time>2024-07-07T14:22:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>227</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800581" lon="121.2445881">
+<ele>4</ele><time>2024-07-07T14:22:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>227</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800180" lon="121.2446287">
+<ele>4</ele><time>2024-07-07T14:22:04.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>230</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800190" lon="121.2446979">
+<ele>4</ele><time>2024-07-07T14:22:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800509" lon="121.2447750">
+<ele>4</ele><time>2024-07-07T14:22:11.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801104" lon="121.2448123">
+<ele>4</ele><time>2024-07-07T14:22:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>204</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801398" lon="121.2448899">
+<ele>4</ele><time>2024-07-07T14:22:15.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>204</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801343" lon="121.2449626">
+<ele>4</ele><time>2024-07-07T14:22:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>66</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>204</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801545" lon="121.2450138">
+<ele>4</ele><time>2024-07-07T14:22:19.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>204</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801926" lon="121.2450715">
+<ele>4</ele><time>2024-07-07T14:22:22.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>58</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801904" lon="121.2451321">
+<ele>4</ele><time>2024-07-07T14:22:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802016" lon="121.2451964">
+<ele>4</ele><time>2024-07-07T14:22:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>94</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802185" lon="121.2452457">
+<ele>4</ele><time>2024-07-07T14:22:34.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>110</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802125" lon="121.2451790">
+<ele>4</ele><time>2024-07-07T14:22:41.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>82</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801974" lon="121.2451006">
+<ele>4</ele><time>2024-07-07T14:22:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>81</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801710" lon="121.2450417">
+<ele>4</ele><time>2024-07-07T14:22:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>66</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801515" lon="121.2449798">
+<ele>4</ele><time>2024-07-07T14:22:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>66</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801220" lon="121.2449341">
+<ele>4</ele><time>2024-07-07T14:22:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>66</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800895" lon="121.2448622">
+<ele>4</ele><time>2024-07-07T14:22:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>159</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800459" lon="121.2448094">
+<ele>4</ele><time>2024-07-07T14:22:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>159</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800055" lon="121.2447497">
+<ele>4</ele><time>2024-07-07T14:22:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>158</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799685" lon="121.2446948">
+<ele>4</ele><time>2024-07-07T14:23:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>182</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799746" lon="121.2446407">
+<ele>4</ele><time>2024-07-07T14:23:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800111" lon="121.2446080">
+<ele>4</ele><time>2024-07-07T14:23:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800297" lon="121.2445205">
+<ele>4</ele><time>2024-07-07T14:23:05.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800233" lon="121.2444497">
+<ele>4</ele><time>2024-07-07T14:23:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800215" lon="121.2443938">
+<ele>4</ele><time>2024-07-07T14:23:09.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800141" lon="121.2443194">
+<ele>4</ele><time>2024-07-07T14:23:11.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799935" lon="121.2442720">
+<ele>4</ele><time>2024-07-07T14:23:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799781" lon="121.2441966">
+<ele>4</ele><time>2024-07-07T14:23:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>205</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799685" lon="121.2441393">
+<ele>4</ele><time>2024-07-07T14:23:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799462" lon="121.2440844">
+<ele>4</ele><time>2024-07-07T14:23:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799543" lon="121.2440222">
+<ele>4</ele><time>2024-07-07T14:23:27.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>180</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799518" lon="121.2439685">
+<ele>4</ele><time>2024-07-07T14:23:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>180</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799387" lon="121.2438889">
+<ele>4</ele><time>2024-07-07T14:23:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>153</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799319" lon="121.2438147">
+<ele>4</ele><time>2024-07-07T14:23:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>153</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799236" lon="121.2437538">
+<ele>4</ele><time>2024-07-07T14:23:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>152</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799011" lon="121.2436889">
+<ele>4</ele><time>2024-07-07T14:23:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>152</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798749" lon="121.2436285">
+<ele>4</ele><time>2024-07-07T14:23:41.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>198</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798474" lon="121.2435843">
+<ele>4</ele><time>2024-07-07T14:23:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>212</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798288" lon="121.2434985">
+<ele>4</ele><time>2024-07-07T14:23:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>206</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798137" lon="121.2434395">
+<ele>4</ele><time>2024-07-07T14:23:48.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798113" lon="121.2433698">
+<ele>4</ele><time>2024-07-07T14:23:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>73</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798108" lon="121.2433157">
+<ele>4</ele><time>2024-07-07T14:23:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798132" lon="121.2432604">
+<ele>4</ele><time>2024-07-07T14:23:57.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>197</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798173" lon="121.2432039">
+<ele>4</ele><time>2024-07-07T14:23:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>197</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797952" lon="121.2431405">
+<ele>4</ele><time>2024-07-07T14:24:04.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>170</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797887" lon="121.2430848">
+<ele>4</ele><time>2024-07-07T14:24:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>166</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797734" lon="121.2430218">
+<ele>4</ele><time>2024-07-07T14:24:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>75</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797614" lon="121.2429522">
+<ele>4</ele><time>2024-07-07T14:24:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>91</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797458" lon="121.2428773">
+<ele>4</ele><time>2024-07-07T14:24:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>146</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797139" lon="121.2428157">
+<ele>4</ele><time>2024-07-07T14:24:18.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>182</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796939" lon="121.2427454">
+<ele>4</ele><time>2024-07-07T14:24:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>182</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796716" lon="121.2426875">
+<ele>4</ele><time>2024-07-07T14:24:22.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796511" lon="121.2426209">
+<ele>4</ele><time>2024-07-07T14:24:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796262" lon="121.2425547">
+<ele>4</ele><time>2024-07-07T14:24:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>215</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795924" lon="121.2424758">
+<ele>4</ele><time>2024-07-07T14:24:28.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>95</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795461" lon="121.2424207">
+<ele>4</ele><time>2024-07-07T14:24:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795321" lon="121.2423501">
+<ele>4</ele><time>2024-07-07T14:24:32.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794990" lon="121.2422738">
+<ele>4</ele><time>2024-07-07T14:24:34.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>220</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794740" lon="121.2422117">
+<ele>4</ele><time>2024-07-07T14:24:36.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>225</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794872" lon="121.2421406">
+<ele>4</ele><time>2024-07-07T14:24:38.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>225</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794857" lon="121.2420737">
+<ele>4</ele><time>2024-07-07T14:24:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>233</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794703" lon="121.2420199">
+<ele>4</ele><time>2024-07-07T14:24:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>233</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795091" lon="121.2420783">
+<ele>4</ele><time>2024-07-07T14:24:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>218</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795227" lon="121.2421295">
+<ele>4</ele><time>2024-07-07T14:24:48.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>218</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795413" lon="121.2422019">
+<ele>4</ele><time>2024-07-07T14:24:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>198</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795531" lon="121.2422716">
+<ele>4</ele><time>2024-07-07T14:24:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>127</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795766" lon="121.2423254">
+<ele>4</ele><time>2024-07-07T14:24:57.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>127</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795753" lon="121.2423933">
+<ele>4</ele><time>2024-07-07T14:24:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>174</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795847" lon="121.2424626">
+<ele>4</ele><time>2024-07-07T14:25:01.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>152</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796216" lon="121.2425104">
+<ele>4</ele><time>2024-07-07T14:25:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>152</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796445" lon="121.2425639">
+<ele>4</ele><time>2024-07-07T14:25:05.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>186</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796756" lon="121.2426370">
+<ele>4</ele><time>2024-07-07T14:25:09.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>191</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796934" lon="121.2426997">
+<ele>4</ele><time>2024-07-07T14:25:12.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797228" lon="121.2427409">
+<ele>4</ele><time>2024-07-07T14:25:14.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>179</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797503" lon="121.2427836">
+<ele>4</ele><time>2024-07-07T14:25:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>179</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797732" lon="121.2428413">
+<ele>4</ele><time>2024-07-07T14:25:19.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>169</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798103" lon="121.2429129">
+<ele>4</ele><time>2024-07-07T14:25:22.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>169</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798107" lon="121.2429664">
+<ele>4</ele><time>2024-07-07T14:25:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>172</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798025" lon="121.2430372">
+<ele>4</ele><time>2024-07-07T14:25:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>80</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>172</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798135" lon="121.2430961">
+<ele>4</ele><time>2024-07-07T14:25:28.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>172</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798315" lon="121.2431591">
+<ele>4</ele><time>2024-07-07T14:25:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>181</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798468" lon="121.2432214">
+<ele>4</ele><time>2024-07-07T14:25:32.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>181</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798640" lon="121.2432856">
+<ele>4</ele><time>2024-07-07T14:25:34.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>181</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798912" lon="121.2433460">
+<ele>4</ele><time>2024-07-07T14:25:36.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>185</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799099" lon="121.2434034">
+<ele>4</ele><time>2024-07-07T14:25:38.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>188</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799276" lon="121.2434557">
+<ele>4</ele><time>2024-07-07T14:25:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799167" lon="121.2435227">
+<ele>4</ele><time>2024-07-07T14:25:42.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798976" lon="121.2435772">
+<ele>4</ele><time>2024-07-07T14:25:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>73</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799120" lon="121.2436348">
+<ele>4</ele><time>2024-07-07T14:25:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>191</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799051" lon="121.2436874">
+<ele>4</ele><time>2024-07-07T14:25:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>191</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799316" lon="121.2437367">
+<ele>4</ele><time>2024-07-07T14:25:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>191</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799553" lon="121.2437948">
+<ele>4</ele><time>2024-07-07T14:25:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>150</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799897" lon="121.2438531">
+<ele>4</ele><time>2024-07-07T14:26:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>77</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800167" lon="121.2439125">
+<ele>4</ele><time>2024-07-07T14:26:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>86</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800303" lon="121.2439724">
+<ele>4</ele><time>2024-07-07T14:26:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>89</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800287" lon="121.2440327">
+<ele>4</ele><time>2024-07-07T14:26:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>58</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>89</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800471" lon="121.2440946">
+<ele>4</ele><time>2024-07-07T14:26:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>91</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800543" lon="121.2441505">
+<ele>4</ele><time>2024-07-07T14:26:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>94</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800519" lon="121.2442062">
+<ele>4</ele><time>2024-07-07T14:26:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>92</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800421" lon="121.2442631">
+<ele>4</ele><time>2024-07-07T14:26:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>93</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800431" lon="121.2443235">
+<ele>4</ele><time>2024-07-07T14:26:29.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>66</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>93</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800494" lon="121.2443852">
+<ele>4</ele><time>2024-07-07T14:26:32.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>66</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>95</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800758" lon="121.2444386">
+<ele>4</ele><time>2024-07-07T14:26:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>97</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801074" lon="121.2445045">
+<ele>4</ele><time>2024-07-07T14:26:38.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>102</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801112" lon="121.2445587">
+<ele>4</ele><time>2024-07-07T14:26:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>73</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>102</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800913" lon="121.2446222">
+<ele>4</ele><time>2024-07-07T14:26:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801175" lon="121.2447008">
+<ele>4</ele><time>2024-07-07T14:26:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801587" lon="121.2447546">
+<ele>4</ele><time>2024-07-07T14:26:48.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>149</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801881" lon="121.2448238">
+<ele>4</ele><time>2024-07-07T14:26:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>149</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801869" lon="121.2449103">
+<ele>4</ele><time>2024-07-07T14:26:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>149</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802114" lon="121.2449870">
+<ele>4</ele><time>2024-07-07T14:26:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>80</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>197</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802337" lon="121.2450511">
+<ele>4</ele><time>2024-07-07T14:26:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802618" lon="121.2451095">
+<ele>4</ele><time>2024-07-07T14:26:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802619" lon="121.2451709">
+<ele>4</ele><time>2024-07-07T14:27:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802465" lon="121.2452275">
+<ele>4</ele><time>2024-07-07T14:27:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802156" lon="121.2451622">
+<ele>4</ele><time>2024-07-07T14:27:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>211</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801975" lon="121.2451140">
+<ele>4</ele><time>2024-07-07T14:27:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>211</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801824" lon="121.2450393">
+<ele>4</ele><time>2024-07-07T14:27:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>211</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801550" lon="121.2449825">
+<ele>4</ele><time>2024-07-07T14:27:12.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801257" lon="121.2449382">
+<ele>4</ele><time>2024-07-07T14:27:14.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800994" lon="121.2448917">
+<ele>4</ele><time>2024-07-07T14:27:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800693" lon="121.2448409">
+<ele>4</ele><time>2024-07-07T14:27:18.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>196</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800488" lon="121.2447802">
+<ele>4</ele><time>2024-07-07T14:27:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800405" lon="121.2447246">
+<ele>4</ele><time>2024-07-07T14:27:22.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>73</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800144" lon="121.2446710">
+<ele>4</ele><time>2024-07-07T14:27:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799877" lon="121.2446166">
+<ele>4</ele><time>2024-07-07T14:27:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>201</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800003" lon="121.2445621">
+<ele>4</ele><time>2024-07-07T14:27:28.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800280" lon="121.2445189">
+<ele>4</ele><time>2024-07-07T14:27:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>66</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800288" lon="121.2444628">
+<ele>4</ele><time>2024-07-07T14:27:32.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800216" lon="121.2444031">
+<ele>4</ele><time>2024-07-07T14:27:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>193</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800121" lon="121.2443400">
+<ele>4</ele><time>2024-07-07T14:27:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>187</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800002" lon="121.2442799">
+<ele>4</ele><time>2024-07-07T14:27:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>176</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>187</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799899" lon="121.2442283">
+<ele>4</ele><time>2024-07-07T14:27:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>187</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799867" lon="121.2441622">
+<ele>4</ele><time>2024-07-07T14:27:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>76</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799849" lon="121.2441009">
+<ele>4</ele><time>2024-07-07T14:27:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>75</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799688" lon="121.2440376">
+<ele>4</ele><time>2024-07-07T14:27:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>75</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799448" lon="121.2439858">
+<ele>4</ele><time>2024-07-07T14:28:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>82</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799386" lon="121.2439333">
+<ele>4</ele><time>2024-07-07T14:28:05.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>78</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799187" lon="121.2438645">
+<ele>4</ele><time>2024-07-07T14:28:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>59</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799108" lon="121.2438080">
+<ele>4</ele><time>2024-07-07T14:28:11.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>59</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798855" lon="121.2437300">
+<ele>4</ele><time>2024-07-07T14:28:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>78</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>117</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798692" lon="121.2436634">
+<ele>4</ele><time>2024-07-07T14:28:15.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>181</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798487" lon="121.2436040">
+<ele>4</ele><time>2024-07-07T14:28:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>181</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798342" lon="121.2435338">
+<ele>4</ele><time>2024-07-07T14:28:19.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>81</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>176</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798177" lon="121.2434772">
+<ele>4</ele><time>2024-07-07T14:28:21.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>176</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798156" lon="121.2434132">
+<ele>4</ele><time>2024-07-07T14:28:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>194</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798109" lon="121.2433439">
+<ele>4</ele><time>2024-07-07T14:28:25.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797924" lon="121.2432707">
+<ele>4</ele><time>2024-07-07T14:28:27.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797947" lon="121.2431999">
+<ele>4</ele><time>2024-07-07T14:28:29.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>202</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797668" lon="121.2431380">
+<ele>4</ele><time>2024-07-07T14:28:31.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>88</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797439" lon="121.2430792">
+<ele>4</ele><time>2024-07-07T14:28:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>89</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>210</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797562" lon="121.2430031">
+<ele>4</ele><time>2024-07-07T14:28:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>230</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797391" lon="121.2429410">
+<ele>4</ele><time>2024-07-07T14:28:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>169</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>230</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797342" lon="121.2428812">
+<ele>4</ele><time>2024-07-07T14:28:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>223</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797153" lon="121.2428178">
+<ele>4</ele><time>2024-07-07T14:28:41.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>223</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797144" lon="121.2427574">
+<ele>4</ele><time>2024-07-07T14:28:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796923" lon="121.2427040">
+<ele>4</ele><time>2024-07-07T14:28:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>226</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796802" lon="121.2426382">
+<ele>4</ele><time>2024-07-07T14:28:49.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>215</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796526" lon="121.2425946">
+<ele>4</ele><time>2024-07-07T14:28:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>215</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796305" lon="121.2425441">
+<ele>4</ele><time>2024-07-07T14:28:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795900" lon="121.2424844">
+<ele>4</ele><time>2024-07-07T14:28:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>172</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>189</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795692" lon="121.2424249">
+<ele>4</ele><time>2024-07-07T14:29:04.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>105</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795510" lon="121.2423635">
+<ele>4</ele><time>2024-07-07T14:29:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>161</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>95</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795261" lon="121.2423015">
+<ele>4</ele><time>2024-07-07T14:29:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>161</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>95</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795174" lon="121.2422420">
+<ele>4</ele><time>2024-07-07T14:29:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>86</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795309" lon="121.2421836">
+<ele>4</ele><time>2024-07-07T14:29:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>83</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795133" lon="121.2421169">
+<ele>4</ele><time>2024-07-07T14:29:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>66</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>83</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795165" lon="121.2420447">
+<ele>4</ele><time>2024-07-07T14:29:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>83</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795053" lon="121.2421053">
+<ele>4</ele><time>2024-07-07T14:29:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>83</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795321" lon="121.2421617">
+<ele>4</ele><time>2024-07-07T14:29:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>110</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795549" lon="121.2422276">
+<ele>4</ele><time>2024-07-07T14:29:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>79</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>110</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795795" lon="121.2422937">
+<ele>4</ele><time>2024-07-07T14:29:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>177</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796055" lon="121.2423463">
+<ele>4</ele><time>2024-07-07T14:29:41.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>86</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>177</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796145" lon="121.2424132">
+<ele>4</ele><time>2024-07-07T14:29:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>177</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796326" lon="121.2424858">
+<ele>4</ele><time>2024-07-07T14:29:45.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>161</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796543" lon="121.2425439">
+<ele>4</ele><time>2024-07-07T14:29:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>161</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796835" lon="121.2426247">
+<ele>4</ele><time>2024-07-07T14:29:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>94</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797057" lon="121.2426900">
+<ele>4</ele><time>2024-07-07T14:29:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>95</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>223</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797379" lon="121.2427571">
+<ele>4</ele><time>2024-07-07T14:29:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>216</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797648" lon="121.2428171">
+<ele>4</ele><time>2024-07-07T14:29:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>216</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797899" lon="121.2428796">
+<ele>4</ele><time>2024-07-07T14:29:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>170</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>217</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798142" lon="121.2429440">
+<ele>4</ele><time>2024-07-07T14:30:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>93</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>217</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798258" lon="121.2430173">
+<ele>4</ele><time>2024-07-07T14:30:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>95</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>218</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798358" lon="121.2430807">
+<ele>4</ele><time>2024-07-07T14:30:04.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798440" lon="121.2431468">
+<ele>4</ele><time>2024-07-07T14:30:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>219</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798609" lon="121.2432231">
+<ele>4</ele><time>2024-07-07T14:30:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>220</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798726" lon="121.2432962">
+<ele>4</ele><time>2024-07-07T14:30:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>220</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798950" lon="121.2433728">
+<ele>4</ele><time>2024-07-07T14:30:12.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>220</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799175" lon="121.2434420">
+<ele>4</ele><time>2024-07-07T14:30:14.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>220</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799332" lon="121.2435202">
+<ele>4</ele><time>2024-07-07T14:30:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799308" lon="121.2435758">
+<ele>4</ele><time>2024-07-07T14:30:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799254" lon="121.2436441">
+<ele>4</ele><time>2024-07-07T14:30:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>212</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799608" lon="121.2437022">
+<ele>4</ele><time>2024-07-07T14:30:27.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>178</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>134</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800013" lon="121.2437516">
+<ele>4</ele><time>2024-07-07T14:30:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>134</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800348" lon="121.2437919">
+<ele>4</ele><time>2024-07-07T14:30:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>177</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>134</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800661" lon="121.2438328">
+<ele>4</ele><time>2024-07-07T14:30:37.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>122</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800614" lon="121.2438879">
+<ele>4</ele><time>2024-07-07T14:30:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>105</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800721" lon="121.2439408">
+<ele>4</ele><time>2024-07-07T14:30:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>57</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>100</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800747" lon="121.2440023">
+<ele>4</ele><time>2024-07-07T14:30:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>163</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>97</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800625" lon="121.2440665">
+<ele>4</ele><time>2024-07-07T14:30:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>95</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800536" lon="121.2441405">
+<ele>4</ele><time>2024-07-07T14:30:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>94</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800448" lon="121.2441980">
+<ele>4</ele><time>2024-07-07T14:30:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>94</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800365" lon="121.2442681">
+<ele>4</ele><time>2024-07-07T14:31:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>88</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800444" lon="121.2443284">
+<ele>4</ele><time>2024-07-07T14:31:07.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>92</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800584" lon="121.2443932">
+<ele>4</ele><time>2024-07-07T14:31:11.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>92</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800835" lon="121.2444389">
+<ele>4</ele><time>2024-07-07T14:31:14.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>91</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801117" lon="121.2445005">
+<ele>4</ele><time>2024-07-07T14:31:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>91</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800907" lon="121.2445509">
+<ele>4</ele><time>2024-07-07T14:31:21.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>93</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800869" lon="121.2446181">
+<ele>4</ele><time>2024-07-07T14:31:25.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>80</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>120</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801060" lon="121.2446839">
+<ele>4</ele><time>2024-07-07T14:31:27.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>120</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801305" lon="121.2447288">
+<ele>4</ele><time>2024-07-07T14:31:29.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>124</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801432" lon="121.2448067">
+<ele>4</ele><time>2024-07-07T14:31:32.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>85</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>124</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801449" lon="121.2448729">
+<ele>4</ele><time>2024-07-07T14:31:34.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>178</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801417" lon="121.2449630">
+<ele>4</ele><time>2024-07-07T14:31:36.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801752" lon="121.2450283">
+<ele>4</ele><time>2024-07-07T14:31:38.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802162" lon="121.2450901">
+<ele>4</ele><time>2024-07-07T14:31:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>192</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802388" lon="121.2451386">
+<ele>4</ele><time>2024-07-07T14:31:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>207</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802291" lon="121.2452101">
+<ele>4</ele><time>2024-07-07T14:31:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1802070" lon="121.2451372">
+<ele>4</ele><time>2024-07-07T14:31:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>64</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801861" lon="121.2450850">
+<ele>4</ele><time>2024-07-07T14:31:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>164</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>64</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801851" lon="121.2450296">
+<ele>4</ele><time>2024-07-07T14:32:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>161</gpxtpx:hr><gpxtpx:cad>66</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>59</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801726" lon="121.2449677">
+<ele>4</ele><time>2024-07-07T14:32:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>153</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>67</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801292" lon="121.2449145">
+<ele>4</ele><time>2024-07-07T14:32:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>72</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800697" lon="121.2449004">
+<ele>4</ele><time>2024-07-07T14:32:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>77</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800435" lon="121.2448391">
+<ele>4</ele><time>2024-07-07T14:32:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>84</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800370" lon="121.2447762">
+<ele>4</ele><time>2024-07-07T14:32:18.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>84</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800299" lon="121.2447191">
+<ele>4</ele><time>2024-07-07T14:32:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>110</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800527" lon="121.2446477">
+<ele>4</ele><time>2024-07-07T14:32:22.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>186</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800556" lon="121.2445875">
+<ele>4</ele><time>2024-07-07T14:32:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>67</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>186</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800668" lon="121.2445226">
+<ele>4</ele><time>2024-07-07T14:32:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>182</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800691" lon="121.2444562">
+<ele>4</ele><time>2024-07-07T14:32:36.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>182</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800498" lon="121.2443900">
+<ele>4</ele><time>2024-07-07T14:32:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>55</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800309" lon="121.2443124">
+<ele>4</ele><time>2024-07-07T14:32:42.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>55</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799720" lon="121.2442687">
+<ele>4</ele><time>2024-07-07T14:32:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>55</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799516" lon="121.2442169">
+<ele>4</ele><time>2024-07-07T14:32:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>89</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799499" lon="121.2441538">
+<ele>4</ele><time>2024-07-07T14:32:48.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>76</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>236</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799449" lon="121.2440918">
+<ele>4</ele><time>2024-07-07T14:32:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>83</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>236</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799387" lon="121.2440152">
+<ele>4</ele><time>2024-07-07T14:32:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>236</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799240" lon="121.2439447">
+<ele>4</ele><time>2024-07-07T14:32:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>203</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799124" lon="121.2438940">
+<ele>4</ele><time>2024-07-07T14:32:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>94</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>204</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798953" lon="121.2438240">
+<ele>4</ele><time>2024-07-07T14:32:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>217</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798813" lon="121.2437610">
+<ele>4</ele><time>2024-07-07T14:33:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>87</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>217</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798723" lon="121.2436987">
+<ele>4</ele><time>2024-07-07T14:33:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>155</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>217</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798570" lon="121.2436356">
+<ele>4</ele><time>2024-07-07T14:33:04.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>77</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>215</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798513" lon="121.2435526">
+<ele>4</ele><time>2024-07-07T14:33:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>73</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798386" lon="121.2434883">
+<ele>4</ele><time>2024-07-07T14:33:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>75</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>213</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798472" lon="121.2434283">
+<ele>4</ele><time>2024-07-07T14:33:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>71</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>213</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798414" lon="121.2433757">
+<ele>4</ele><time>2024-07-07T14:33:12.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>213</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798227" lon="121.2433036">
+<ele>4</ele><time>2024-07-07T14:33:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>168</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798259" lon="121.2432324">
+<ele>4</ele><time>2024-07-07T14:33:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>212</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798167" lon="121.2431780">
+<ele>4</ele><time>2024-07-07T14:33:24.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>173</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797960" lon="121.2431258">
+<ele>4</ele><time>2024-07-07T14:33:27.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>162</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>160</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798056" lon="121.2430660">
+<ele>4</ele><time>2024-07-07T14:33:31.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>97</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798091" lon="121.2430035">
+<ele>4</ele><time>2024-07-07T14:33:35.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>57</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>97</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797872" lon="121.2429460">
+<ele>4</ele><time>2024-07-07T14:33:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>153</gpxtpx:hr><gpxtpx:cad>58</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>92</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797796" lon="121.2428800">
+<ele>4</ele><time>2024-07-07T14:33:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>91</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797776" lon="121.2428131">
+<ele>4</ele><time>2024-07-07T14:33:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>151</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>88</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797588" lon="121.2427571">
+<ele>4</ele><time>2024-07-07T14:33:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>61</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>89</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797379" lon="121.2427060">
+<ele>4</ele><time>2024-07-07T14:33:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>88</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797234" lon="121.2426493">
+<ele>4</ele><time>2024-07-07T14:33:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>87</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796926" lon="121.2426000">
+<ele>4</ele><time>2024-07-07T14:34:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>82</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796727" lon="121.2425389">
+<ele>4</ele><time>2024-07-07T14:34:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>148</gpxtpx:hr><gpxtpx:cad>69</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>82</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796635" lon="121.2424773">
+<ele>4</ele><time>2024-07-07T14:34:09.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>147</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>90</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796305" lon="121.2424136">
+<ele>4</ele><time>2024-07-07T14:34:11.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>147</gpxtpx:hr><gpxtpx:cad>65</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>90</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796019" lon="121.2423456">
+<ele>4</ele><time>2024-07-07T14:34:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>147</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>90</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795745" lon="121.2422868">
+<ele>4</ele><time>2024-07-07T14:34:15.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>57</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>90</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795537" lon="121.2422193">
+<ele>4</ele><time>2024-07-07T14:34:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>57</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>185</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795556" lon="121.2421633">
+<ele>4</ele><time>2024-07-07T14:34:19.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795469" lon="121.2421115">
+<ele>4</ele><time>2024-07-07T14:34:22.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>150</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>214</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795188" lon="121.2420564">
+<ele>4</ele><time>2024-07-07T14:34:25.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>208</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795133" lon="121.2419962">
+<ele>4</ele><time>2024-07-07T14:34:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>121</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794792" lon="121.2419506">
+<ele>4</ele><time>2024-07-07T14:34:34.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>86</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794692" lon="121.2420138">
+<ele>4</ele><time>2024-07-07T14:34:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>146</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>64</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1794969" lon="121.2420834">
+<ele>4</ele><time>2024-07-07T14:34:49.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>145</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>62</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795245" lon="121.2421565">
+<ele>4</ele><time>2024-07-07T14:34:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>145</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>60</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795577" lon="121.2422210">
+<ele>4</ele><time>2024-07-07T14:34:54.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>143</gpxtpx:hr><gpxtpx:cad>58</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>72</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1795843" lon="121.2423079">
+<ele>4</ele><time>2024-07-07T14:34:56.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>143</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>72</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796171" lon="121.2423531">
+<ele>4</ele><time>2024-07-07T14:34:57.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>143</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>267</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796441" lon="121.2424661">
+<ele>4</ele><time>2024-07-07T14:34:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>84</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>267</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796598" lon="121.2425315">
+<ele>4</ele><time>2024-07-07T14:35:00.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>97</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>267</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796628" lon="121.2426022">
+<ele>4</ele><time>2024-07-07T14:35:01.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>100</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>267</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1796935" lon="121.2426719">
+<ele>4</ele><time>2024-07-07T14:35:03.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>149</gpxtpx:hr><gpxtpx:cad>100</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>310</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797266" lon="121.2427086">
+<ele>4</ele><time>2024-07-07T14:35:04.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>102</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>310</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1797949" lon="121.2427745">
+<ele>4</ele><time>2024-07-07T14:35:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>335</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798330" lon="121.2428631">
+<ele>4</ele><time>2024-07-07T14:35:08.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>98</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>349</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798792" lon="121.2429384">
+<ele>4</ele><time>2024-07-07T14:35:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>106</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>341</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799106" lon="121.2430175">
+<ele>4</ele><time>2024-07-07T14:35:12.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>101</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>341</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799484" lon="121.2430621">
+<ele>4</ele><time>2024-07-07T14:35:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>167</gpxtpx:hr><gpxtpx:cad>94</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>331</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799940" lon="121.2431025">
+<ele>4</ele><time>2024-07-07T14:35:14.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>90</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>331</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800537" lon="121.2431636">
+<ele>4</ele><time>2024-07-07T14:35:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>82</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>331</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800951" lon="121.2431858">
+<ele>4</ele><time>2024-07-07T14:35:17.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>74</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>331</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801437" lon="121.2432243">
+<ele>4</ele><time>2024-07-07T14:35:18.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>171</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>327</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801591" lon="121.2432924">
+<ele>4</ele><time>2024-07-07T14:35:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>325</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801135" lon="121.2433227">
+<ele>4</ele><time>2024-07-07T14:35:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>173</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>327</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800806" lon="121.2433612">
+<ele>4</ele><time>2024-07-07T14:35:25.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>57</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>327</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800439" lon="121.2434180">
+<ele>4</ele><time>2024-07-07T14:35:27.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>174</gpxtpx:hr><gpxtpx:cad>57</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>327</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800450" lon="121.2434720">
+<ele>4</ele><time>2024-07-07T14:35:30.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>60</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>176</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800140" lon="121.2435187">
+<ele>4</ele><time>2024-07-07T14:35:33.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>53</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>118</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799826" lon="121.2435635">
+<ele>4</ele><time>2024-07-07T14:35:36.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>175</gpxtpx:hr><gpxtpx:cad>49</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>117</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799659" lon="121.2436169">
+<ele>4</ele><time>2024-07-07T14:35:39.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>51</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>117</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799800" lon="121.2436727">
+<ele>4</ele><time>2024-07-07T14:35:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>166</gpxtpx:hr><gpxtpx:cad>51</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>104</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799795" lon="121.2437345">
+<ele>4</ele><time>2024-07-07T14:35:47.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>161</gpxtpx:hr><gpxtpx:cad>51</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>100</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799979" lon="121.2437988">
+<ele>4</ele><time>2024-07-07T14:35:52.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>51</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>90</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800105" lon="121.2438499">
+<ele>4</ele><time>2024-07-07T14:35:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>158</gpxtpx:hr><gpxtpx:cad>51</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>86</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800194" lon="121.2439020">
+<ele>4</ele><time>2024-07-07T14:35:58.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>51</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>87</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800263" lon="121.2439674">
+<ele>4</ele><time>2024-07-07T14:36:02.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>156</gpxtpx:hr><gpxtpx:cad>53</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>87</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800453" lon="121.2440284">
+<ele>4</ele><time>2024-07-07T14:36:06.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>55</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>89</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800579" lon="121.2441077">
+<ele>4</ele><time>2024-07-07T14:36:10.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>57</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>89</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800797" lon="121.2441823">
+<ele>4</ele><time>2024-07-07T14:36:13.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>53</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>89</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800641" lon="121.2442571">
+<ele>4</ele><time>2024-07-07T14:36:16.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>56</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>93</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800717" lon="121.2443157">
+<ele>4</ele><time>2024-07-07T14:36:18.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>55</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>93</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800857" lon="121.2443753">
+<ele>4</ele><time>2024-07-07T14:36:20.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>93</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800980" lon="121.2444267">
+<ele>4</ele><time>2024-07-07T14:36:23.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>154</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>224</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1801070" lon="121.2444868">
+<ele>4</ele><time>2024-07-07T14:36:26.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>159</gpxtpx:hr><gpxtpx:cad>59</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>188</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800893" lon="121.2445633">
+<ele>4</ele><time>2024-07-07T14:36:29.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>160</gpxtpx:hr><gpxtpx:cad>62</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>209</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800633" lon="121.2444609">
+<ele>4</ele><time>2024-07-07T14:36:40.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>153</gpxtpx:hr><gpxtpx:cad>63</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>130</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800476" lon="121.2443960">
+<ele>4</ele><time>2024-07-07T14:36:43.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>153</gpxtpx:hr><gpxtpx:cad>64</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>52</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800417" lon="121.2443428">
+<ele>4</ele><time>2024-07-07T14:36:44.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>68</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>74</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800523" lon="121.2442488">
+<ele>4</ele><time>2024-07-07T14:36:46.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>70</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>74</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1800413" lon="121.2441717">
+<ele>4</ele><time>2024-07-07T14:36:48.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>72</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>74</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799928" lon="121.2440981">
+<ele>4</ele><time>2024-07-07T14:36:50.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>73</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799614" lon="121.2440598">
+<ele>4</ele><time>2024-07-07T14:36:51.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>91</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>199</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1799040" lon="121.2439874">
+<ele>4</ele><time>2024-07-07T14:36:53.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>152</gpxtpx:hr><gpxtpx:cad>101</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>272</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798862" lon="121.2439047">
+<ele>4</ele><time>2024-07-07T14:36:55.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>92</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>264</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798597" lon="121.2438365">
+<ele>4</ele><time>2024-07-07T14:36:57.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>157</gpxtpx:hr><gpxtpx:cad>99</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>284</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+<trkpt lat="31.1798384" lon="121.2437895">
+<ele>4</ele><time>2024-07-07T14:36:59.001Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>165</gpxtpx:hr><gpxtpx:cad>106</gpxtpx:cad></gpxtpx:TrackPointExtension></extensions><extensions><gpxtpx:PowerExtension><gpxtpx:PowerInWatts>284</gpxtpx:PowerInWatts></gpxtpx:PowerExtension></extensions></trkpt>
+</trkseg></trk>
+</gpx>
