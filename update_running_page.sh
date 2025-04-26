@@ -50,12 +50,27 @@ python3 run_page/gen_svg.py \
     --type circular \
     --use-localtime
 
-# 6. 取消激活虚拟环境
-echo "6. 取消激活虚拟环境"
+# 6. 生成 Month of Life 样式的 SVG
+echo "6. 生成 Month of Life 样式的 SVG"
+python3 run_page/gen_svg.py \
+    --from-db \
+    --type monthoflife \
+    --birth 1988-08 \
+    --special-distance 5 \
+    --special-distance2 10 \
+    --special-color '#f9d367' \
+    --special-color2 '#f0a1a8' \
+    --output assets/mol.svg \
+    --use-localtime \
+    --athlete Jay \
+    --title 'Runner Month of Life'
+
+# 7. 取消激活虚拟环境
+echo "7. 取消激活虚拟环境"
 deactivate
 
-# 7. 提交到 Git
-echo "7. 提交所有更改到 Git"
+# 8. 提交到 Git
+echo "8. 提交所有更改到 Git"
 git add .
 git commit -m "chore: update running page" || echo "没有新的更改需要提交"
 git push
