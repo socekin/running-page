@@ -11,11 +11,11 @@ source ./venv/bin/activate
 
 # 2. 运行 GPX 同步脚本
 echo "2. 运行 GPX 同步脚本"
-python run_page/gpx_sync.py
+python3 run_page/gpx_sync.py
 
 # 3. 生成 GitHub 样式的 SVG
 echo "3. 生成 GitHub 样式的 SVG"
-python run_page/gen_svg.py \
+python3 run_page/gen_svg.py \
     --from-db \
     --title "Running Life" \
     --type github \
@@ -30,7 +30,7 @@ python run_page/gen_svg.py \
 
 # 4. 生成网格样式的 SVG
 echo "4. 生成网格样式的 SVG"
-python run_page/gen_svg.py \
+python3 run_page/gen_svg.py \
     --from-db \
     --title "Runs" \
     --type grid \
@@ -45,7 +45,7 @@ python run_page/gen_svg.py \
 
 # 5. 生成圆形样式的 SVG
 echo "5. 生成圆形样式的 SVG"
-python run_page/gen_svg.py \
+python3 run_page/gen_svg.py \
     --from-db \
     --type circular \
     --use-localtime

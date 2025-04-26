@@ -9,12 +9,21 @@ interface ISiteMetadataResult {
   }[];
 }
 
+const getBasePath = () => {
+  const baseUrl = import.meta.env.BASE_URL;
+  return baseUrl === '/' ? '' : baseUrl;
+};
+
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Jay',
   siteUrl: 'https://run.jaylife.cc',
   logo: 'https://telegraph-image-7y6.pages.dev/file/86131c954ce23302178d6.png',
   description: 'Personal site and blog',
   navLinks: [
+    {
+      name: 'Summary',
+      url: `${getBasePath()}/summary`,
+    },
     {
       name: 'Blog',
       url: 'https://jaylife.cc',
